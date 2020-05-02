@@ -1,0 +1,2 @@
+browser->server: HTTP GET https://fullstack-exampleapp.herokuapp.com/new_note_spa [{content: "garbage", date: "2020-05-02T06:18:00.010Z"}, ...]
+server-->browser: JSON data
